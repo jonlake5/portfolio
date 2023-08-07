@@ -3,4 +3,4 @@ This github repo servers as my portfoloio of projects, scripts, and other bits o
 
 # Certifications
 ## AWS
-[AWS SAP](https://github.com/jonlake5/portfolio/blob/main/images/aws-certified-solutions-architect-professional%20150x150.png)
+![aws-certified-solutions-architect-professional 150x150](https://github.com/jonlake5/portfolio/assets/5898917/813047ac-2122-4b25-b15c-49b334777f75)
