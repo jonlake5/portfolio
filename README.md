@@ -6,8 +6,8 @@ Hello, my name is Jonathan Lake. I am a cloud enginer (AWS and Azure) with softw
 
 # Certifications
 ## AWS
-![aws-certified-solutions-architect-professional 150x150](https://github.com/jonlake5/portfolio/assets/5898917/813047ac-2122-4b25-b15c-49b334777f75) ![aws-certified-solutions-architect-associate](https://github.com/jonlake5/portfolio/assets/5898917/6536846d-ea6a-48f6-aa1a-da87598cf64a)
-![](/images/aws-certified-solutions-architect-professional-150x150.png)
+![aws-certified-solutions-architect-professional 150x150](/images/aws-certified-solutions-architect-professional-150x150.png) ![aws-certified-solutions-architect-associate](/images/aws-certified-solutions-architect-associate-150x150.png)
+
 # Projects
 
 ## Chatbot
