@@ -2,7 +2,7 @@
 This github repo serves as my portfoloio of projects, scripts, and other bits of information regarding my technical background, expreiences, and certifications.
 
 # About
-Hello, my name is Jonathan Lake. I am a cloud enginer with software development experience. I 
+Hello, my name is Jonathan Lake. I am a cloud enginer (AWS and Azure) with software development experience. 
 
 # Certifications
 ## AWS
@@ -11,7 +11,19 @@ Hello, my name is Jonathan Lake. I am a cloud enginer with software development 
 # Projects
 
 ## Chatbot
+Use case:
+This client wanted to have a ChatBot functionality on their webpage. A small icon on the bottom right that when clicked would open a chatbot. The chatbot back end was developed with Amazon Lex.
+It opened an embedded iframe that was hosted on S3 with CloudFront.
+It had pre-programmed phrases to send to the chat bot, in addition to being able to type in any message desired.
 
+Front End:
+* HTML
+* CSS
+* JavaScript
+
+Backend: 
+* Amazon Lex
+* API Gateway
 
 ## Call Recording Search
 Use case:
@@ -33,5 +45,6 @@ Front End:
 * CSS
 * Cognito for Authentication
 
-Solution Diagram
-[Solution Diagram](/images/call-recording.png)
+Solution Diagram:
+
+![Solution Diagram](/images/call-recording.png)
