@@ -56,5 +56,7 @@ Solution Diagram:
 # Programming examples
 ## AWS Identity Center user management
 Description: Once enabling AWS Identity Center to be federated to a 3rd party IDP (Azure AD in this example) there isn't any option to add users to groups or add new users if SCIM isn't implemented to populate the users from the IDP. These were created to easily allow users to be added to groups or to Identity Center.
+
 [addUserToGroup.py](https://github.com/jonlake5/pbUtilities/blob/6196740f21df69b9ed6907d1472fbff1d0b448f0/addUserToGroup.py)
+
 [addUserToIdentityCenter.py](https://github.com/jonlake5/pbUtilities/blob/6196740f21df69b9ed6907d1472fbff1d0b448f0/addUserToIdentityCenter.py)
