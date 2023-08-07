@@ -2,7 +2,7 @@
 This github repo serves as my portfoloio of projects, scripts, and other bits of information regarding my technical background, expreiences, and certifications.
 
 # About
-Hello, my name is Jonathan Lake. I am a cloud enginer (AWS and Azure) with software development experience. You can view my [resume](/Resume.md) to understand more of what I have worked on in my professional career.
+Hello, my name is Jonathan Lake. I am a cloud enginer (AWS and Azure) with software development experience. You can view my [resume](/Resume.md) to understand more of what I have worked on throughout my professional career.
 I have experience working in different verticals including healthcare, finance, manufacturing, and transportation.
 I am passionate about utilizing cloud services such as AWS and Azure to improve business operations and building solutions that will help customers succeed in solving their problems.
 
@@ -47,6 +47,14 @@ Front End:
 * CSS
 * Cognito for Authentication
 
+[Git Repo](https://github.com/jonlake5/five9_call_archiving)
+
 Solution Diagram:
 
 ![Solution Diagram](/images/call-recording.png)
+
+# Programming examples
+## AWS Identity Center user management
+Description: Once enabling AWS Identity Center to be federated to a 3rd party IDP (Azure AD in this example) there isn't any option to add users to groups or add new users if SCIM isn't implemented to populate the users from the IDP. These were created to easily allow users to be added to groups or to Identity Center.
+[addUserToGroup.py](https://github.com/jonlake5/pbUtilities/blob/6196740f21df69b9ed6907d1472fbff1d0b448f0/addUserToGroup.py)
+[addUserToIdentityCenter.py](https://github.com/jonlake5/pbUtilities/blob/6196740f21df69b9ed6907d1472fbff1d0b448f0/addUserToIdentityCenter.py)
