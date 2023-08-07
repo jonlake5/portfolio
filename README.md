@@ -2,7 +2,9 @@
 This github repo serves as my portfoloio of projects, scripts, and other bits of information regarding my technical background, expreiences, and certifications.
 
 # About
-Hello, my name is Jonathan Lake. I am a cloud enginer (AWS and Azure) with software development experience. 
+Hello, my name is Jonathan Lake. I am a cloud enginer (AWS and Azure) with software development experience. You can view my [resume](/Resume.md) to understand more of what I have worked on in my professional career.
+I have experience working in different verticals including healthcare, finance, manufacturing, and transportation.
+I am passionate about utilizing cloud services such as AWS and Azure to improve business operations and building solutions that will help customers succeed in solving their problems.
 
 # Certifications
 ## AWS
