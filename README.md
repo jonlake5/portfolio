@@ -3,4 +3,4 @@ This github repo servers as my portfoloio of projects, scripts, and other bits o
 
 # Certifications
 ## AWS
-https://www.credly.com/badges/08f24313-1e22-491e-ba95-f39fce0d425d/public_url
+[AWS SAP](https://github.com/jonlake5/portfolio/blob/main/images/aws-certified-solutions-architect-professional%20150x150.png)
