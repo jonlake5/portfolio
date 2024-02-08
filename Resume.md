@@ -2,6 +2,10 @@
 
 IT Engineer with 6 years experience in a software development environment, with over 15+ years of experience in various environments and industries. Managed multiple data center moves and cloud migrations. Goal-oriented and results-driven individual with a knack for "getting it done". Quickly able to learn and adapt to the needs of the environment and projects.
 
+# Certifications 
+AWS Solutions Architect - Professional
+Azure Administrator
+
 # Experience
 
 
@@ -16,8 +20,7 @@ IT Engineer with 6 years experience in a software development environment, with 
 
 ## 2019 - 2023 - Support Analyst III
 ###     Sentinel Technologies
-*   Performed troubleshooting of technology issues in a variety of disciplines including VMware, EMC, Nimble and NetApp storage, Cisco UCS hardware, Microsoft applications and services *   (Active Directory, Exchange, O365, Windows 2008R2, 2012,
-*   2016 and 2019) for our customer’s environments.
+*   Performed troubleshooting of technology issues in a variety of disciplines including Azure, AWS, VMware, EMC, Nimble and NetApp storage, Cisco UCS hardware, Microsoft applications and services (Active Directory, Exchange, O365, Windows 2008R2, 2012, 2016 and 2019) for our customer’s environments.
 *   Provided recommendations to our customers to resolve underlying problems that were the cause of recurring incidents and recognized areas of improvement. Ensured
 *   I understood the impact the problem was causing their business to accurately assess priority amongst all my service calls.
 *   Made suggestions and worked to improve the on-boarding process for new customers.
