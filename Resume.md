@@ -4,6 +4,7 @@ IT Engineer with 6 years experience in a software development environment, with 
 
 # Certifications 
 AWS Solutions Architect - Professional
+
 Azure Administrator
 
 # Experience
